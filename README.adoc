@@ -206,8 +206,10 @@ Voici les pré-requis pour exécuter nos codes d'évaluation.
 
 === Références
 
-- link:http://xyz[Mon super outil XYZ]
-- ...
+- link:https://app.codacy.com[Qualité du Code]
+- link:https://www.bigocheatsheet.com/[Compléxité Algorithmique]
+- link:https://ideone.com[Temps d'éxecution]
+- link:https://ideone.com[Consommation en ressources]
 
 == Généralités, notation de la SAÉ et résultat du concours
 
